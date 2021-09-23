@@ -167,3 +167,173 @@ body {
   color: #ffffff;
 }
 /* HERO END */
+/* work start */
+.work {
+  padding-bottom: 150px;
+}
+.work-wrapper {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 75px;
+  color: #1c2323;
+  margin-bottom: 15px;
+}
+.work-heading {
+}
+.work-title {
+  font-size: 20px;
+  line-height: 35px;
+  color: #404242;
+  margin-bottom: 51px;
+}
+.work-img-wrapper {
+  display: flex;
+}
+.work-img {
+  width: 963px;
+  min-height: 350px;
+  display: block;
+}
+.work-content {
+  background: #ccf0e6;
+  border-radius: 0px 10px 10px 0px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  padding-left: 95px;
+  padding-right: 86;
+  position: relative;
+}
+.work-text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #486958;
+  margin-bottom: 21px;
+}
+.subtitle {
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 30px;
+  color: #486958;
+  letter-spacing: 1.2px;
+}
+.work-play-wrapper {
+  position: absolute;
+  bottom: 40px;
+  left: -40;
+}
+/* work end */
+/* home start */
+.home {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+}
+.home-img {
+  width: 542px;
+  height: 550px;
+  left: 146px;
+  top: 1858px;
+}
+.home-h2 {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 50px;
+
+  color: #1c2323;
+  padding-bottom: 50px;
+}
+.home-p {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 35px;
+
+  color: #486958;
+}
+/* home end */
+/* project start */
+.container {
+}
+.project {
+  text-align: center;
+}
+.project-h2 {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 95px;
+  /* identical to box height */
+
+  color: #1c2323;
+}
+.project-p {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 35px;
+
+  color: #404242;
+}
+.livingroom {
+}
+.livingroom-h3 {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 50px;
+  color: #58a9a5;
+}
+.livingroom-p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #486958;
+}
+.lovingroom-img {
+  width: 350px;
+  height: 350px;
+  left: 146px;
+  top: 3148px;
+  border-radius: 0px 0px 225px 225px;
+}
+.workspace {
+}
+.workspace-img {
+  width: 350px;
+  height: 350px;
+  left: 735.5px;
+  top: 3058px;
+  border-radius: 225px;
+}
+.workspace-h3 {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 50px;
+
+  color: #58a9a5;
+}
+.workspace-p {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #486958;
+}
+
+.library {
+}
+.library-h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #486958;
+}
+.library-p {
+}
+.library-img {
+}
+
+.project1 {
+  display: flex;
+  justify-content: space-around;
+}
+/* project end */
