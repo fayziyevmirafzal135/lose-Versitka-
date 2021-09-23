@@ -337,3 +337,76 @@ body {
   justify-content: space-around;
 }
 /* project end */
+/* contact start */
+.contact {
+  padding-bottom: 334px;
+}
+
+.contact-container {
+  display: flex;
+}
+.contact-content {
+  width: 398px;
+  margin-right: 85px;
+}
+.contact-heding {
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 85px;
+
+  color: #1c2323;
+}
+.contact-text {
+  margin-bottom: 6px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 28px;
+  color: #486958;
+}
+.contact-line {
+  width: 115px;
+  height: 4px;
+  background: #58a9a5;
+  margin-bottom: 6px;
+  border: 0;
+}
+.contact-line:last-child {
+  margin-bottom: 0;
+}
+.contact-forum {
+  width: 1080px;
+  border: 1px solid #486958;
+  padding: 47px 45px 25px 45px;
+}
+.contact-input::placeholder {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #486958;
+}
+.contact-input {
+  display: block;
+  width: 100%;
+  outline: none;
+  border: 0;
+  margin-bottom: 37px;
+  border-bottom: 1px solid #000000;
+  padding: 25px 0;
+}
+.contact-wrapper{
+  display: flex;
+  justify-content: end;
+}
+.contact-btn {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 37px;
+  border: 0;
+  padding: 15px 53px;
+  background: #58a9a5;
+  border-radius: 20px 20px 20px 0px;
+  color: #ffffff;
+ 
+}
+/* contact end */
